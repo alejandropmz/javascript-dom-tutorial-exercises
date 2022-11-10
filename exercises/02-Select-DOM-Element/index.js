@@ -1,4 +1,4 @@
 //your code here
 
-let restore = document.querySelector("#theTitle");
-alert(restore.id)
+let alertMessage = document.querySelector("#theTitle");
+alert(alertMessage.id)
